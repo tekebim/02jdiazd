@@ -1,0 +1,5 @@
+// File: custom.scss
+// Include Bootstrap and BootstrapVue SCSS files
+@import 'variables';
+@import '../../../../node_modules/bootstrap/scss/bootstrap';
+@import '../../../../node_modules/bootstrap-vue/src/index';
